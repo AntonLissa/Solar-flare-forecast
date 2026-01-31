@@ -3,9 +3,10 @@
 This repository contains the paper written for the project of the Elective AI course, the project is about **solar flare forecasting** using **multi-temporal full-disk line-of-sight (LOS) magnetograms** and deep learning models. The repository will not provide the code used for the experiments.
 
 The project compares **CNN–LSTM**, **Encoder–LSTM**, and **Vision Transformer (ViT)** architectures to predict the occurrence of **strong solar flares (M/X class)** within 24 hours.
-
-Based on the paper:  
-*Comparative Analysis of Deep Learning Architectures for Solar Flare Prediction from Multi-Temporal Image Sequences*
+<br>
+<p align = "center">
+<img src="explainability.jpg" alt="Grad-CAM example" width="600">
+</p>
 
 ---
 

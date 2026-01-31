@@ -1,6 +1,6 @@
 # Solar Flare Prediction with Deep Learning
 
-This repository contains the code and experiments for the projecto of the Elective AI course, the project is about **solar flare forecasting** using **multi-temporal full-disk line-of-sight (LOS) magnetograms** and deep learning models.
+This repository contains the paper written for the project of the Elective AI course, the project is about **solar flare forecasting** using **multi-temporal full-disk line-of-sight (LOS) magnetograms** and deep learning models. The repository will not provide the code used for the experiments.
 
 The project compares **CNN–LSTM**, **Encoder–LSTM**, and **Vision Transformer (ViT)** architectures to predict the occurrence of **strong solar flares (M/X class)** within 24 hours.
 
